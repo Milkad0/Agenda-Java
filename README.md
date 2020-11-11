@@ -53,6 +53,30 @@ Once is done, edit the meeting informations.
 
 ![](Images/Modif2.PNG)
 
+### Delete a meeting
+Select a meeting, then click on the "Supprimer RDV" button.
+
+### Delete all meetings
+Just click on the "Supprimer tous les RDV" button.
+
+### Save agenda
+Click on the "Sauvegarder Agenda".
+
+### Meetings filters
+The application has 2 filters available, to use them click on the "Filtres" button.
+To remove all the filters click on the "Supprimer tous les filtres" button.
+
+![](Images/filtres.PNG)
+
+- Filter between 2 dates
+Click on the "Filtrer entre 2 dates" button, and fill the fields.
+
+![](Images/Filtre1.PNG)
+
+- Filter on criteria
+Click on the "Filtrer sur criteres" button, and fill the fields [Day], [Month], [Year].
+
+![](Images/Filtre2.PNG)
 
 ## Collaborators
 
