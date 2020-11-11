@@ -60,7 +60,7 @@ Select a meeting, then click on the "Supprimer RDV" button.
 Just click on the "Supprimer tous les RDV" button.
 
 ### Save agenda
-Click on the "Sauvegarder Agenda".
+Click on the "Sauvegarder Agenda" button.
 
 ### Meetings filters
 The application has 2 filters available, to use them click on the "Filtres" button.
