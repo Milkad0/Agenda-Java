@@ -1,4 +1,4 @@
-# Agenda-Java
+# Agenda-Java : never miss an appointment again !
 
 ![](Images/Agenda1.PNG)
 
@@ -18,10 +18,14 @@ cd Agenda-Java
 
 ![](Images/Agenda2.PNG)
 
-![](Images/Agenda2.PNG)
-
-![](Images/AddButton.PNG)
+![](Images/AgendaAddRDV.PNG)
 
 ![](Images/AddRdvPop.PNG)
 
+![](Images/AgendaModifier.PNG)
+
 ![](Images/Modif.PNG)
+
+![](Images/AgendaAddAgenda.PNG)
+
+![](Images/AddAgenda.PNG)
