@@ -21,7 +21,7 @@ To create a new agenda, click on the "Creer Agenda" button.
 
 ![](Images/AgendaAddAgenda.png)
 
-Then put the name that you want.
+Then put the name that you want and validate
 
 ![](Images/AddAgenda.PNG)
 
