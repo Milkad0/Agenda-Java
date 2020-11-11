@@ -1,4 +1,4 @@
-# Agenda-Java : never miss an appointment again !
+# Agenda-Java : Never miss an appointment again !
 
 ![](Images/Agenda1.PNG)
 
@@ -18,14 +18,18 @@ cd Agenda-Java
 
 ![](Images/Agenda2.PNG)
 
-![](Images/AgendaAddRDV.PNG)
+![](Images/AgendaAddRDV.png)
 
 ![](Images/AddRdvPop.PNG)
 
-![](Images/AgendaModifier.PNG)
+![](Images/AgendaModifier.png)
 
 ![](Images/Modif.PNG)
 
-![](Images/AgendaAddAgenda.PNG)
+![](Images/AgendaAddAgenda.png)
 
 ![](Images/AddAgenda.PNG)
+
+## Collaborators
+
+Vincent ETHEVE
