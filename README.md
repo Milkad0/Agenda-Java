@@ -16,15 +16,27 @@ cd Agenda-Java
 ```
 ### How it work ?
 
+- Open an agenda
+
+To open an agenda, you just have to select an existing one and click on "Ouvrir Agenda".
+
+Once you have opened an agenda, you can see all the saved meetings.
+
 ![](Images/Agenda2.PNG)
 
+- Add a meeting
+
+To add a meeting, click on the "Ajouter RDV" button
+
 ![](Images/AgendaAddRDV.png)
+
+
 
 ![](Images/AddRdvPop.PNG)
 
 ![](Images/AgendaModifier.png)
 
-![](Images/Modif.PNG)
+![](Images/Modif2.PNG)
 
 ![](Images/AgendaAddAgenda.png)
 
