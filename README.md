@@ -15,7 +15,7 @@ cd Agenda-Java
 ...\Agenda-Java\Swing_Agenda
 ```
 ## How it work ?
-- Create an agenda
+### Create an agenda
 
 To create a new agenda, click on the "Creer Agenda" button.
 
@@ -25,7 +25,7 @@ Then put the name that you want.
 
 ![](Images/AddAgenda.PNG)
 
-- Open an agenda
+### Open an agenda
 
 To open an agenda, you just have to select an existing one and click on "Ouvrir Agenda".
 
@@ -33,7 +33,7 @@ Once you have opened an agenda, you can see all the saved meetings.
 
 ![](Images/Agenda2.PNG)
 
-- Add a meeting
+### Add a meeting
 
 To add a meeting, click on the "Ajouter RDV" button...
 
@@ -43,7 +43,7 @@ To add a meeting, click on the "Ajouter RDV" button...
 
 ![](Images/AddRdvPop.PNG)
 
-- Edit a meeting
+### Edit a meeting
 
 Select a meeting, then click on the "Modifier RDV".
 
