@@ -14,7 +14,7 @@ cd Agenda-Java
 ```sh
 ...\Agenda-Java\Swing_Agenda
 ```
-### How it work ?
+## How it work ?
 - Create an agenda
 
 To create a new agenda, click on the "Creer Agenda" button.
